@@ -20,23 +20,23 @@ El trabajo aquí expuesto fue realizado durante la cursada en la institución So
 
 <hr> 
 
-+ Archivo "Conocimiento de la API y fuentes de datos" --> En este archivo esta la visualizacion y testeo de la API con sus funciones e informacion contenida en la web, una exploracion a nivel informativo para poder familiarizarme y ver la fuente requerida que es la conexion a la API de CoinGecko y a su vez, consulto la API de Yahoo Finance y un dataset de Kaggle.
++ Archivo "Conocimiento de la API y fuentes de datos" --> En este archivo esta la visualización y testeo de la API con sus funciones e información contenida en la web, una exploración a nivel informativo para poder familiarizarme y ver la fuente requerida que es la conexión a la API de CoinGecko y a su vez, consulto la API de Yahoo Finance y un dataset de Kaggle.
 
-+ Archivo "PI_DA_Crypto_dataset.ipynb" --> Consulta a las fuentes de datos y armado del dataset que luego sera consumido para el EDA y Dashboard.
++ Archivo "PI_DA_Crypto_dataset.ipynb" --> Consulta a las fuentes de datos y armado del dataset que luego será consumido para el EDA y Dashboard.
 
-+ Archivo "dataset_final.csv" --> Este es el archivo creado en python armado con las fuentes de datos anteriormente mencionadas. En donde, junto la informacion de las fuentes y tomo la informacion que considero util para el proyecto.
++ Archivo "dataset_final.csv" --> Este es el archivo creado en Python armado con las fuentes de datos anteriormente mencionadas. En donde, junto la información de las fuentes y tomo la información que considero útil para el proyecto.
 
-+ Archivo "EDA.ipynb" --> Analisis exploratorio de los datos, de las criptomonedas elegidas.
++ Archivo "EDA.ipynb" --> Análisis exploratorio de los datos, de las criptomonedas elegidas.
 
 + Archivo "requirements.txt" --> Este archivo tiene los requerimientos que utilizan las notebooks.
 
 # Contexto del proyecto
 
-El proyecto realizado como primer paso tuvo la obligacion de la conexion y accedimiento a la API de CoinGecko para extraer datos sobre las criptomonedas. 
+El proyecto realizado como primer paso tuvo la obligación de la conexión y acceso a la API de CoinGecko para extraer datos sobre las criptomonedas. 
 
-Debido al corto periodo de realizacion de trabajo, el analisis habia que centrarlo en 10 criptomonedas a libre eleccion.
+Debido al corto periodo de realización de trabajo, el análisis había que centrarlo en 10 criptomonedas a libre elección.
 
-En cuanto al objetivo del trabajo, habia que realizar un analisis exhaustivo para poder presentar con estos datos, una historia para entender mejor el mercado de criptomonedas y presentar hallazgos y recomendaciones en un informe detallado. El mismo ademas de tratamiento de datos, analisis exploratorio de datos, la utilizacion de KPI's y un Dashboard interactivo  para poder visualizar e interactuar diferentes perspectivas de la tematica.
+En cuanto al objetivo del trabajo, había que realizar un análisis exhaustivo para poder presentar con estos datos, una historia para entender mejor el mercado de criptomonedas y presentar hallazgos y recomendaciones en un informe detallado. El mismo además de tratamiento de datos, análisis exploratorio de datos, la utilización de KPI's y un Dashboard interactivo  para poder visualizar e interactuar diferentes perspectivas de la temática.
 
 <Vr> 
 
@@ -44,7 +44,7 @@ En cuanto al objetivo del trabajo, habia que realizar un analisis exhaustivo par
 
 Las criptomonedas son monedas digitales que utilizan métodos de criptografía para asegurar las transacciones. Esto significa que es un sistema descentralizado en el que mediante la tecnología blockchain, en donde cada agente de la red garantiza la seguridad y el equilibrio de las transacciones, es como un gran libro de contabilidad inmodificable y compartido que van escribiendo una gran cantidad de ordenadores de forma simultánea.
 
-Las 10 criptomonedas elegidas son las 10 que actualmente tienen mas market capitalization (la mayor cantidad de capitalizacion en el mercado) segun: https://coinmarketcap.com/ 
+Las 10 criptomonedas elegidas son las 10 que actualmente tienen más market capitalization (la mayor cantidad de capitalización en el mercado) según: https://coinmarketcap.com/ 
 
 - BTC - BITCOIN
 - ETH - ETHEREUM
@@ -63,39 +63,39 @@ Las 10 criptomonedas elegidas son las 10 que actualmente tienen mas market capit
 
 ### BITCOIN - BTC
 
-Bitcoin (BTC) es la criptomoneda más antigua de todas y nació en el año 2009. Es la moneda mas popular y con mayor capitalizacion de mercado, fue la procursora de las criptomonedas, de la descentralizacion en activos financieros digitales utilizando la tecnologia blockchain. Su oferta es limitada y cada 4 años hay halvings (mas informacion en EDA)
+Bitcoin (BTC) es la criptomoneda más antigua de todas y nació en el año 2009. Es la moneda más popular y con mayor capitalización de mercado, fue la precursora de las criptomonedas, de la descentralización en activos financieros digitales utilizando la tecnología blockchain. Su oferta es limitada y cada 4 años hay halvings (más información en EDA)
 
 ### ETHEREUM - ETH
 
-Ethereum (ETH) es una plataforma y criptomoneda descentralizada creada por el Ruso Vitalik Buterin en 2015.Ethereum se desarrollo como una plataforma que permite a los desarrolladores construir y ejecutar aplicaciones descentralizadas (DApps) y contratos inteligentes en su blockchain. (mas informacion en el EDA)
+Ethereum (ETH) es una plataforma y criptomoneda descentralizada creada por el Ruso Vitalik Buterin en 2015.Ethereum se desarrolló como una plataforma que permite a los desarrolladores construir y ejecutar aplicaciones descentralizadas (DApps) y contratos inteligentes en su blockchain. (Más información en el EDA)
 
 ### TETHER - USDT
 
-Tether es una criptomoneda estable que está diseñada para mantener un valor estable en relación con una moneda fiduciaria, generalmente el dólar estadounidense (USD). A diferencia de muchas otras criptomonedas que pueden ser volátiles en términos de precios, Tether se crea con la intención de proporcionar estabilidad y fungibilidad similares a las monedas tradicionales (mas informacion en el EDA)
+Tether es una criptomoneda estable que está diseñada para mantener un valor estable en relación con una moneda fiduciaria, generalmente el dólar estadounidense (USD). A diferencia de muchas otras criptomonedas que pueden ser volátiles en términos de precios, Tether se crea con la intención de proporcionar estabilidad y fungibilidad similares a las monedas tradicionales (más información en el EDA)
 
 ### BINANCE COIN - BNB
 
-Binance Coin, es la moneda que pertenece y fue creada por la actual sitio de Exchange mas grande y con mas movimientos de criptomonedas. (mas informacion en el EDA)
+Binance Coin, es la moneda que pertenece y fue creada por la actual sitio de Exchange más grande y con más movimientos de criptomonedas. (Más información en el EDA)
 
 ### RIPPLE - XRP
 
-XRP es parte de una plataforma y red de pago que busca facilitar transferencias de dinero rápidas y eficientes a nivel global. A diferencia de muchas otras criptomonedas, XRP no se basa en tecnología blockchain descentralizada, sino que utiliza un enfoque diferente llamado Red de Validación Ripple (RippleNet). (mas informacion en el EDA)
+XRP es parte de una plataforma y red de pago que busca facilitar transferencias de dinero rápidas y eficientes a nivel global. A diferencia de muchas otras criptomonedas, XRP no se basa en tecnología blockchain descentralizada, sino que utiliza un enfoque diferente llamado Red de Validación Ripple (RippleNet). (Más información en el EDA)
 
 ### USD COIN - USDC 
 
- El objetivo principal de USDC es proporcionar una moneda digital que mantenga una paridad cercana al dólar estadounidense y que sea útil para transacciones y contratos inteligentes en el espacio de las criptomonedas. (mas informacion en el EDA)
+ El objetivo principal de USDC es proporcionar una moneda digital que mantenga una paridad cercana al dólar estadounidense y que sea útil para transacciones y contratos inteligentes en el espacio de las criptomonedas. (Más información en el EDA)
 
 ### DOGECOIN - DOGE
 
-Dogecoin es una criptomoneda que nació en 2013 como una versión paródica de Bitcoin. Aunque comenzó como una broma, Dogecoin se ha convertido en una criptomoneda popular y querida en la comunidad cripto. (mas informacion en el EDA)
+Dogecoin es una criptomoneda que nació en 2013 como una versión paródica de Bitcoin. Aunque comenzó como una broma, Dogecoin se ha convertido en una criptomoneda popular y querida en la comunidad cripto. (Más información en el EDA)
 
 ### CARDANO - ADA
 
-Cardano (ADA) es una plataforma de blockchain y una criptomoneda que se centra en la investigación y la ingeniería de alto nivel para crear una red escalable y segura.(mas informacion en el EDA)
+Cardano (ADA) es una plataforma de blockchain y una criptomoneda que se centra en la investigación y la ingeniería de alto nivel para crear una red escalable y segura. (Más información en el EDA)
 
 ### SOLANA - SOL
 
-Solana es una plataforma blockchain de alto rendimiento diseñada para proporcionar escalabilidad y velocidad en la ejecución de aplicaciones descentralizadas (DApps) y contratos inteligentes. (mas informacion en el EDA)
+Solana es una plataforma blockchain de alto rendimiento diseñada para proporcionar escalabilidad y velocidad en la ejecución de aplicaciones descentralizadas (DApps) y contratos inteligentes. (Más información en el EDA)
 
 ### TRON - TRX
 
@@ -110,12 +110,11 @@ TRON (TRX) es una plataforma blockchain descentralizada que tiene como objetivo 
 
 Los KPI's son indicadores claves de performance, indicadores de desempeño, respecto de un objetivo propuesto por una organización, para medir dicho desempeño se utilizan medidas numéricas denominadas métricas, en relación con los objetivos preestablecidos. Los KPI son utilizados para medir el progreso y el éxito en áreas clave como ventas, productividad, rentabilidad, eficiencia y satisfacción del cliente
 
-* <u>Retorno de la inversion (ROI)</u> -->  El objetivo para los próximos cuatro años es lograr un Retorno de Inversión (ROI) de al menos el 15% en nuestra cartera de criptomonedas, asegurando un crecimiento rentable de nuestros activos digitales. Este objetivo se medirá tomando en cuenta la relación entre las ganancias netas generadas por nuestras inversiones y el capital invertido inicialmente.
+* <u>Retorno de la inversión (ROI)</u> -->  El objetivo para los próximos cuatro años es lograr un Retorno de Inversión (ROI) de al menos el 15% en nuestra cartera de criptomonedas, asegurando un crecimiento rentable de nuestros activos digitales. Este objetivo se medirá tomando en cuenta la relación entre las ganancias netas generadas por nuestras inversiones y el capital invertido inicialmente.
 
-El ROI es utilizado como un indicador clave en la industria financiera, que sirve para obtener el retorno de una inversion realizada por una empresa o accion. Para calcular el ROI es necesario saber cuales fueron las ganancias y que monto se invirtio. Es un indicador que utilizare, el cual me parece clave para poder medir la performace de las inversiones realizadas.
+El ROI es utilizado como un indicador clave en la industria financiera, que sirve para obtener el retorno de una inversión realizada por una empresa o acción. Para calcular el ROI es necesario saber cuáles fueron las ganancias y que monto se invirtió. Es un indicador que utilizare, el cual me parece clave para poder medir la performance de las inversiones realizadas.
 
   ROI= [(Ganancia - Inversión) / Inversión] X 100
-
 
 * <u>Indicador de Fuerza relativa (RSI)</u>: Al cabo de dos años, lograr un 60% de operaciones exitosas al utilizar el RSI como guía para tomar decisiones de compra y venta en criptomonedas
 
@@ -129,25 +128,25 @@ Mide el porcentaje de cambio en el precio de la criptomoneda durante un período
 
 Rendimiento por periodo = ((Precio Final - Precio Inicial) / Precio Inicial) * 100
 
-* <u>Precios Maximos</u>: Utilizar el precio máximo histórico como referencia para evaluar el rendimiento actual y potencial de la criptomoneda en relación con su precio más alto registrado.
+* <u>Precios Máximos</u>: Utilizar el precio máximo histórico como referencia para evaluar el rendimiento actual y potencial de la criptomoneda en relación con su precio más alto registrado.
 
 Este KPI establece una referencia del precio máximo alcanzado por una criptomoneda específica, con el propósito de evaluar el rendimiento y las oportunidades de ganancia en función de este precio histórico.
 
-* <u>Diversificación del Portfolio</u>: Número de Activos Diversificados = Al finalizar los próximos cinco años, se busca que un porcentaje significativo de usuarios cuente con al menos tres activos diferentes en sus carteras de inversión, lo que reflejará una estrategia efectiva de diversificación y contribuirá a la reducción del riesgo de inversión. Esta diversificacion de portfolio coincide con el perfil de inversor cliente al que esta destinada la cartera de activos de inversion.
+* <u>Diversificación del Portfolio</u>: Número de Activos Diversificados = Al finalizar los próximos cinco años, se busca que un porcentaje significativo de usuarios cuente con al menos tres activos diferentes en sus carteras de inversión, lo que reflejará una estrategia efectiva de diversificación y contribuirá a la reducción del riesgo de inversión. Esta diversificación de portfolio coincide con el perfil de inversor cliente al que está destinada la cartera de activos de inversión.
   
 Número de Activos Diversificados = Total de Usuarios con al menos 3 Activos Diferentes / Total de Usuarios
 
-# Conclusion
+# Conclusión
 
-Tras analizar el mercado de las criptomonedas, principalmente el de estas 10 monedas, noto un mercado que se instalo rapidamente y debido a su descentralizacion, con su amplio acceso y facilidad por parte de billones de usuarios, lo que permite un facil acceso y esto hace que sea una comunidad que crece exponencialmente, con las funcionalidades y el mercado asociado a estas monedas. La tecnologia en la que se basa, Blockchain permite que esto mismo se pueda dar y da lugar a todos estas millones de transacciones y a los usuarios que interactuan con ellas.
+Tras analizar el mercado de las criptomonedas, principalmente el de estas 10 monedas, noto un mercado que se instaló rápidamente y debido a su descentralización, con su amplio acceso y facilidad por parte de billones de usuarios, lo que permite un fácil acceso y esto hace que sea una comunidad que crece exponencialmente, con las funcionalidades y el mercado asociado a estas monedas. La tecnología en la que se basa, Blockchain permite que esto mismo se pueda dar y da lugar a todos estas millones de transacciones y a los usuarios que interactúan con ellas.
 
-Se puede ver el primer gran crecimiento que tuvieron las criptomonedas en 2017, cuando empezaron a ser mas populares y se dieron a conocer aun mas de la mano de la precursora, el Bitcoin. Por otro lado, , se nota el incremento que todas las monedas tuvieron en el segundo gran crecimiento exponencial de las criptomonedas en 2021. Y como luego, a finales del 2021 empiezan a caer los precios de todas las monedas pero a un precio ubicado entre la mitad del pico y de lo que eran antes de esa corriente alcista.
+Se puede ver el primer gran crecimiento que tuvieron las criptomonedas en 2017, cuando empezaron a ser más populares y se dieron a conocer aún más de la mano de la precursora, el Bitcoin. Por otro lado, se nota el incremento que todas las monedas tuvieron en el segundo gran crecimiento exponencial de las criptomonedas en 2021. Y como luego, a finales del 2021 empiezan a caer los precios de todas las monedas pero a un precio ubicado entre la mitad del pico y de lo que eran antes de esa corriente alcista.
 
 El mercado de las criptomonedas contiene una amplia variedad de monedas, cada una con sus propias características y niveles de volatilidad. La volatilidad asociada a este mercado ha sido un aspecto llamativo, y su influencia se ha expuesto a lo largo del análisis. Además, este mercado opera con volúmenes financieros muy altos, lo que refleja el significativo interés y participación de inversores y usuarios en todo el mundo.
 
 Es importante destacar que la volatilidad puede generar oportunidades excepcionales de generación de riqueza en un período relativamente corto, así como también presentar desafíos sustanciales. La experiencia del mercado de criptomonedas se asemeja a una montaña rusa financiera, donde las ganancias y las pérdidas pueden ser extremadamente pronunciadas. Estos caminos destacan la importancia de la educación financiera, la comprensión profunda del mercado y la adopción de una estrategia de inversión bien fundamentada.
 
-Hay que destacar la constante evolucion del desarrollo de las criptomonedas, como su evolucion fue adaptando distintas tecnologias y como estas monedas con sus tecnologias y funcionalidades impulsan avances tecnologicos como Cardano, o como monedas como tron impulsan el desarrollo de la industria del entretenimiento. Y como monedas como el USDC y USDT, son una fuente segura de ahorros con un respaldo y paridad cuasi perfecta 1:1 vs dolar. Como hemos visto, hay varios casos en solo estas 10 monedas de lo grande, compleja y abarcativa que son las criptomonedas.
+Hay que destacar la constante evolución del desarrollo de las criptomonedas, como su evolución fue adaptando distintas tecnologías y como estas monedas con sus tecnologías y funcionalidades impulsan avances tecnológicos como Cardano, o como monedas como tron impulsan el desarrollo de la industria del entretenimiento. Y como monedas como el USDC y USDT, son una fuente segura de ahorros con un respaldo y paridad cuasi perfecta 1:1 vs dólar. Como hemos visto, hay varios casos en solo estas 10 monedas de lo grande, compleja y abarcativa que son las criptomonedas.
 
 
 <Vr> 
