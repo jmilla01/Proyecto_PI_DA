@@ -1,7 +1,7 @@
 # 
 <p align=center><img src=https://neurona-ba.com/wp-content/uploads/2021/07/HenryLogo.jpg><p>
 
-# <h1 align=center> **Proyecto Individual NRO 2 ** </h1>
+# <h1 align=center>  Proyecto Individual NRO 2  </h1>
 
 # <h1 align=center>**`Data Analytics`**</h1>
 
@@ -137,6 +137,15 @@ Este KPI establece una referencia del precio máximo alcanzado por una criptomon
   
 Número de Activos Diversificados = Total de Usuarios con al menos 3 Activos Diferentes / Total de Usuarios
 
+# Conclusion
+
+Tras analizar el mercado de las criptomonedas, principalmente el de estas 10 monedas, noto un mercado que se instalo rapidamente y debido a su descentralizacion, con su amplio acceso y facilidad por parte de billones de usuarios, lo que permite un facil acceso y esto hace que sea una comunidad que crece exponencialmente, con las funcionalidades y el mercado asociado a estas monedas. La tecnologia en la que se basa, Blockchain permite que esto mismo se pueda dar y da lugar a todos estas millones de transacciones y a los usuarios que interactuan con ellas.
+
+Se puede ver el primer gran crecimiento que tuvieron las criptomonedas en 2017, cuando empezaron a ser mas populares y se dieron a conocer aun mas de la mano de la precursora, el Bitcoin. Por otro lado, , se nota el incremento que todas las monedas tuvieron en el segundo gran crecimiento exponencial de las criptomonedas en 2021. Y como luego, a finales del 2021 empiezan a caer los precios de todas las monedas pero a un precio ubicado entre la mitad del pico y de lo que eran antes de esa corriente alcista.
+
+El mercado de las criptomonedas contiene una amplia variedad de monedas, cada una con sus propias características y niveles de volatilidad. La volatilidad asociada a este mercado ha sido un aspecto llamativo, y su influencia se ha expuesto a lo largo del análisis. Además, este mercado opera con volúmenes financieros muy altos, lo que refleja el significativo interés y participación de inversores y usuarios en todo el mundo.
+
+Es importante destacar que la volatilidad puede generar oportunidades excepcionales de generación de riqueza en un período relativamente corto, así como también presentar desafíos sustanciales. La experiencia del mercado de criptomonedas se asemeja a una montaña rusa financiera, donde las ganancias y las pérdidas pueden ser extremadamente pronunciadas. Estos caminos destacan la importancia de la educación financiera, la comprensión profunda del mercado y la adopción de una estrategia de inversión bien fundamentada.
 
 
 <Vr> 
@@ -159,14 +168,22 @@ Número de Activos Diversificados = Total de Usuarios con al menos 3 Activos Dif
 # BIBLIOGRAFIA
 
 Material de la cursada en Soy henry
+
 https://www.nationalgeographic.com.es/mundo-ng/que-son-criptomonedas-y-como-funcionan_16981#google_vignette
-https://www.euroinnova.com.ar/blog/latam/historia-de-las-criptomonedas#:~:text=En%201995%2C%20Chaum%20desarroll%C3%B3%20un,el%20origen%20de%20las%20criptomonedas.
+
+https://www.euroinnova.com.ar/blog/latamhistoria-de-las-criptomonedas#:~:text=En%201995%2C%20Chaum%20desarroll%C3%B3%20unel%20origen%20de%20las%20criptomonedas
+
 https://www.ibm.com/es-es/topics/blockchain
+
 https://www.bitpanda.com/academy/es/lecciones/que-es-la-capitalizacion-del-mercado-market-cap-y-por-que-importa/
-CHAT GPT 
+
+ 
 https://www.centralcharts.com/es/gm/1-aprender/1-criptomoneda/42-trading
-https://www.euroinnova.com.ar/blog/latam/historia-de-las-criptomonedas#:~:text=En%201995%2C%20Chaum%20desarroll%C3%B3%20un,el%20origen%20de%20las%20criptomonedas
-https://ethereum.org/es/what-is-ethereum/#:~:text=Ethereum%20es%20una%20red%20que,controlada%20por%20una%20autoridad%20central
+
+https://www.euroinnova.com.ar/blog/latamhistoria-de-las-criptomonedas#:~:text=En%201995%2C%20Chaum%20desarroll%C3%B3%20unel%20origen%20de%20las%20criptomonedas
+
+https://ethereum.org/es/what-is-ethereum/:~:text=Ethereum%20es%20una%20red%20quecontrolada%20por%20una%20autoridad%20central
+
 https://learn.bybit.com/es/altcoins/que-es-bnb-binance-coin/
 
 
