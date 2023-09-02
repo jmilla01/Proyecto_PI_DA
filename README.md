@@ -16,6 +16,19 @@ El trabajo aquí expuesto fue realizado durante la cursada en la institución So
 
 <Vr> 
 
+
+## Tabla de contenidos
+- [Archivos en el Repositorio](#archivos-en-el-repositorio)
+- [Contexto](#contexto-del-proyecto)
+- [Criptomonedas elegidas](#criptomonedas-elegidas)
+- [Descripción de las criptomonedas](#descripcion-de-las-criptomonedas)
+- [KPI's](#kpi)
+- [Conclusión](#conclusión)
+- [Stack tecnologico](#stack-tecnologico)
+- [Bibliografía](#bibliografia)
+
+
+
 # ARCHIVOS EN EL REPOSITORIO
 
 <hr> 
@@ -30,6 +43,8 @@ El trabajo aquí expuesto fue realizado durante la cursada en la institución So
 
 + Archivo "requirements.txt" --> Este archivo tiene los requerimientos que utilizan las notebooks.
 
+[Tabla de Contenidos](#tabla-de-contenidos)
+
 # Contexto del proyecto
 
 El proyecto realizado como primer paso tuvo la obligación de la conexión y acceso a la API de CoinGecko para extraer datos sobre las criptomonedas. 
@@ -38,6 +53,7 @@ Debido al corto periodo de realización de trabajo, el análisis había que cent
 
 En cuanto al objetivo del trabajo, había que realizar un análisis exhaustivo para poder presentar con estos datos, una historia para entender mejor el mercado de criptomonedas y presentar hallazgos y recomendaciones en un informe detallado. El mismo además de tratamiento de datos, análisis exploratorio de datos, la utilización de KPI's y un Dashboard interactivo  para poder visualizar e interactuar diferentes perspectivas de la temática.
 
+[Tabla de Contenidos](#tabla-de-contenidos)
 <Vr> 
 
 # CRIPTOMONEDAS ELEGIDAS
@@ -57,6 +73,7 @@ Las 10 criptomonedas elegidas son las 10 que actualmente tienen más market capi
 - SOL - SOLANA
 - TRX - TRON
 
+[Tabla de Contenidos](#tabla-de-contenidos)
 <Vr> 
 
 # DESCRIPCION DE LAS CRIPTOMONEDAS
@@ -101,12 +118,13 @@ Solana es una plataforma blockchain de alto rendimiento diseñada para proporcio
 
 TRON (TRX) es una plataforma blockchain descentralizada que tiene como objetivo crear un ecosistema para la descentralización de contenido y aplicaciones en la web. Fue fundada por Justin Sun en 2017 con el objetivo de revolucionar la forma en que se comparte y consume contenido en línea. TRON se centra en la industria del entretenimiento y la creación de contenido digital. 
 
+[Tabla de Contenidos](#tabla-de-contenidos)
 <Vr> 
 
 
 <Vr> 
 
-# KPI's
+# KPI
 
 Los KPI's son indicadores claves de performance, indicadores de desempeño, respecto de un objetivo propuesto por una organización, para medir dicho desempeño se utilizan medidas numéricas denominadas métricas, en relación con los objetivos preestablecidos. Los KPI son utilizados para medir el progreso y el éxito en áreas clave como ventas, productividad, rentabilidad, eficiencia y satisfacción del cliente
 
@@ -136,6 +154,8 @@ Este KPI establece una referencia del precio máximo alcanzado por una criptomon
   
 Número de Activos Diversificados = Total de Usuarios con al menos 3 Activos Diferentes / Total de Usuarios
 
+[Tabla de Contenidos](#tabla-de-contenidos)
+
 # Conclusión
 
 Tras analizar el mercado de las criptomonedas, principalmente el de estas 10 monedas, noto un mercado que se instaló rápidamente y debido a su descentralización, con su amplio acceso y facilidad por parte de billones de usuarios, lo que permite un fácil acceso y esto hace que sea una comunidad que crece exponencialmente, con las funcionalidades y el mercado asociado a estas monedas. La tecnología en la que se basa, Blockchain permite que esto mismo se pueda dar y da lugar a todos estas millones de transacciones y a los usuarios que interactúan con ellas.
@@ -148,7 +168,7 @@ Es importante destacar que la volatilidad puede generar oportunidades excepciona
 
 Hay que destacar la constante evolución del desarrollo de las criptomonedas, como su evolución fue adaptando distintas tecnologías y como estas monedas con sus tecnologías y funcionalidades impulsan avances tecnológicos como Cardano, o como monedas como tron impulsan el desarrollo de la industria del entretenimiento. Y como monedas como el USDC y USDT, son una fuente segura de ahorros con un respaldo y paridad cuasi perfecta 1:1 vs dólar. Como hemos visto, hay varios casos en solo estas 10 monedas de lo grande, compleja y abarcativa que son las criptomonedas.
 
-
+[Tabla de Contenidos](#tabla-de-contenidos)
 <Vr> 
 
 # STACK TECNOLOGICO
@@ -164,6 +184,7 @@ Hay que destacar la constante evolución del desarrollo de las criptomonedas, co
 + API CoinGecko -- [Coingecko](https://www.coingecko.com/es/api/documentation) API con datos de criptomonedas
 + API Yahoo Finance -- [YFinance](https://pypi.org/project/yfinance/) API con datos de criptomonedas
 
+[Tabla de Contenidos](#tabla-de-contenidos)
 <Vr> 
 
 # BIBLIOGRAFIA
@@ -186,6 +207,8 @@ https://www.euroinnova.com.ar/blog/latamhistoria-de-las-criptomonedas#:~:text=En
 https://ethereum.org/es/what-is-ethereum/:~:text=Ethereum%20es%20una%20red%20quecontrolada%20por%20una%20autoridad%20central
 
 https://learn.bybit.com/es/altcoins/que-es-bnb-binance-coin/
+
+[Tabla de Contenidos](#tabla-de-contenidos)
 
 
 
