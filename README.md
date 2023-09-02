@@ -126,13 +126,16 @@ TRON (TRX) es una plataforma blockchain descentralizada que tiene como objetivo 
 
 # KPI
 
-Los KPI's son indicadores claves de performance, indicadores de desempeño, respecto de un objetivo propuesto por una organización, para medir dicho desempeño se utilizan medidas numéricas denominadas métricas, en relación con los objetivos preestablecidos. Los KPI son utilizados para medir el progreso y el éxito en áreas clave como ventas, productividad, rentabilidad, eficiencia y satisfacción del cliente
+Los KPI's son indicadores claves de performance, indicadores de desempeño, respecto de un objetivo propuesto por una organización, para medir dicho desempeño se utilizan medidas numéricas denominadas métricas, en relación con los objetivos preestablecidos. Los KPI son utilizados para medir el progreso y el éxito en áreas clave como ventas, productividad, rentabilidad, eficiencia y satisfacción del cliente. En el dashboard los podremos ver
 
 * <u>Retorno de la inversión (ROI)</u> -->  El objetivo para los próximos cuatro años es lograr un Retorno de Inversión (ROI) de al menos el 15% en nuestra cartera de criptomonedas, asegurando un crecimiento rentable de nuestros activos digitales. Este objetivo se medirá tomando en cuenta la relación entre las ganancias netas generadas por nuestras inversiones y el capital invertido inicialmente.
 
 El ROI es utilizado como un indicador clave en la industria financiera, que sirve para obtener el retorno de una inversión realizada por una empresa o acción. Para calcular el ROI es necesario saber cuáles fueron las ganancias y que monto se invirtió. Es un indicador que utilizare, el cual me parece clave para poder medir la performance de las inversiones realizadas.
 
-  ROI= [(Ganancia - Inversión) / Inversión] X 100
+
+<h1 align=center><img src="images/roi.webp" width="300" alt="Alt Text"></h1>
+
+
 
 * <u>Indicador de Fuerza relativa (RSI)</u>: Al cabo de dos años, lograr un 60% de operaciones exitosas al utilizar el RSI como guía para tomar decisiones de compra y venta en criptomonedas
 
