@@ -210,6 +210,8 @@ https://ethereum.org/es/what-is-ethereum/:~:text=Ethereum%20es%20una%20red%20que
 
 https://learn.bybit.com/es/altcoins/que-es-bnb-binance-coin/
 
+https://www.iebschool.com/blog/que-es-como-calcula-roi-marketing-estrategico/ 
+
 [Tabla de Contenidos](#tabla-de-contenidos)
 
 
